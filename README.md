@@ -11,7 +11,7 @@ terrain.
 
 | Projet | En bref | Stack |
 |---|---|---|
-| [**PENDO**](https://pendo-frontend.vercel.app) | Plateforme des marchés financiers africains : 21 bourses, actualités, opportunités d'investissement, FR/EN/AR | React · Node.js/Express · SQLite/PostgreSQL · scraping · Vercel |
+| [**PENDO**](https://github.com/modibomagassavitruve-hub/pendo-platform) · [démo](https://pendo-frontend.vercel.app) | Plateforme des marchés financiers africains : 21 bourses, actualités, opportunités d'investissement, FR/EN/AR | React · Node.js/Express · SQLite/PostgreSQL · scraping · Vercel |
 | [**Opti-Stock**](https://github.com/modibomagassavitruve-hub/opti-stock) | Gestion de stock pour opticiens : saisie par photo + OCR d'étiquette, identification de monture par similarité (recall@5 = 0.91), inventaire | Python · FastAPI · CLIP/embeddings · fine-tuning triplet · Docker |
 | [**Radio AI**](https://github.com/LucaSailing/radio_ai) | Détection de fractures sur radiographies, localisation et explicabilité — projet d'équipe Le Wagon | TensorFlow · YOLO · Grad-CAM · FastAPI · GCP |
 | [**TaxiFare**](https://github.com/modibomagassavitruve-hub/taxifare-website) | Prédiction du prix d'une course : modèle servi en API + front | FastAPI · Streamlit · GCP |
